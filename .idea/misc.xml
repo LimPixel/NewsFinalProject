@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/drawable/shadow_black.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/layout-v23/activity_detail.xml" value="0.3531047265987025" />
+        <entry key="app/src/main/res/layout-v28/last_update.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.26327433628318586" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1710042024086415" />
+        <entry key="app/src/main/res/layout/fragment_new.xml" value="0.2586805555555556" />
+        <entry key="app/src/main/res/layout/fragment_popular.xml" value="0.2586805555555556" />
+        <entry key="app/src/main/res/layout/fragment_trending.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/home_activity.xml" value="0.20056437874739597" />
+        <entry key="app/src/main/res/layout/last_update.xml" value="0.29053360121857075" />
+        <entry key="app/src/main/res/layout/news_headline.xml" value="0.25601374570446733" />
+        <entry key="app/src/main/res/layout/row_item_news.xml" value="0.2928" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
